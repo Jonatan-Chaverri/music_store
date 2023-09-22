@@ -1,0 +1,6 @@
+# Ignore Flask environment file
+.flaskenv
+
+
+*__pycache__*
+*venv*
